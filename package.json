@@ -1,7 +1,7 @@
 {
-  "name": "Social-Media-Downloader",
+  "name": "DogBot Social-Media-Downloader",
   "version": "1.0.0",
-  "description": "Telegram bot to download all kinds of media.",
+  "description": "Telegram @dogdwlbot to download all kinds of media.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
     "telegram",
     "bot"
   ],
-  "author": "Krxuv",
+  "author": "Rabby",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Krxuv/Social-Media-Downloader/issues"
